@@ -15,56 +15,56 @@ interface TeamMember {
 
 const teamMembers: TeamMember[] = [
   {
-    name: "Dr. Sarah Johnson",
-    role: "Lead Data Scientist",
-    bio: "Ph.D. in Machine Learning with 8 years of experience in healthcare AI. Specializes in developing predictive models for early disease detection.",
-    image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=300&h=300&auto=format&fit=crop",
+    name: "CH. AMARA NAGESWARA RAO",
+    role: "TEAM LEAD",
+    bio: "Feeling exited to be a team leader,I am very interested in this",
+    image: "",
     social: {
-      email: "sarah.johnson@example.com",
+      email: "amara@gmail.com",
       github: "https://github.com",
       linkedin: "https://linkedin.com"
     }
   },
   {
-    name: "Michael Chen",
-    role: "ML Engineer",
+    name: "J V S L NARASIMHA SWAMY",
+    role: "TEAM MEMBER",
     bio: "Expert in scikit-learn and deep learning frameworks. Focuses on optimizing algorithms for medical image analysis and feature extraction.",
-    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=300&h=300&auto=format&fit=crop",
+    image: "",
     social: {
-      email: "michael.chen@example.com",
+      email: "jvenkat14547@gmail.com",
       github: "https://github.com",
       linkedin: "https://linkedin.com"
     }
   },
   {
-    name: "Dr. Olivia Rodriguez",
-    role: "Data Analyst",
+    name: "M VAMSI KRISHNA",
+    role: "TEAM MEMBER",
     bio: "Specializes in statistical analysis and data visualization. Expert in pandas and numpy for processing large medical datasets.",
-    image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=300&h=300&auto=format&fit=crop",
+    image: "",
     social: {
-      email: "olivia.rodriguez@example.com",
+      email: "vamsi123@gmail.com",
       github: "https://github.com",
       linkedin: "https://linkedin.com"
     }
   },
   {
-    name: "Alex Rivera",
-    role: "Lead Developer",
+    name: "ravindra reddy",
+    role: "team member",
     bio: "Full-stack developer specializing in Flask and React. Integrates machine learning models with user-friendly interfaces.",
-    image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=300&h=300&auto=format&fit=crop",
+    image: "",
     social: {
-      email: "alex.rivera@example.com",
+      email: "ravindra12@gmail.com",
       github: "https://github.com",
       linkedin: "https://linkedin.com"
     }
   },
   {
-    name: "Priya Sharma",
-    role: "UX/UI Designer",
+    name: "sai baba",
+    role: "team member",
     bio: "Creates intuitive user experiences for medical professionals and patients. Focuses on accessibility and clarity in medical interfaces.",
-    image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=300&h=300&auto=format&fit=crop",
+    image: "",
     social: {
-      email: "priya.sharma@example.com",
+      email: "saibaba56@gmail.com",
       github: "https://github.com",
       linkedin: "https://linkedin.com"
     }

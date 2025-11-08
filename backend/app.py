@@ -35,7 +35,7 @@ def home():
 
 @app.route('/predict_csv', methods=['POST'])
 def predict_csv():
-    file = request.files['file']
+    file = request.files['file']    
     try:
         df = pd.read_csv(file)
         predictions = model.predict(df.values)
